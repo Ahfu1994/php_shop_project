@@ -5,8 +5,8 @@
 2. ใช้ ภาษา PHP เขียน server side ใช้ ภาษา HTML , CSS(Bootstrap) เขียน client side
 
 3. มี Admin page สำหรับจัดการ Website 
-  3.1. เพิ่ม, ลบ, แก้ไข, Admin
-  3.2. เพิ่ม, ลบ, แก้ไข, upload image, Product
+3.1. เพิ่ม, ลบ, แก้ไข, Admin
+3.2. เพิ่ม, ลบ, แก้ไข, upload image, Product
 
 4. มี Login page 
 
