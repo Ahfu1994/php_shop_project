@@ -1,6 +1,6 @@
 # โค้ดของ E-commerce project ประกอบด้วย
 
-1. ใช้ MySQL สร้าง Database 
+1. ใช้ MySQL สร้าง Database  
 
 2. ใช้ ภาษา PHP เขียน server side ใช้ ภาษา HTML , CSS(Bootstrap) เขียน client side
 
@@ -25,6 +25,8 @@
 
 2. clone project ลงใน folder htdocs ของ XAMPP
 
-3. run file index.html สำหรับ customer
+3. import shop_project.sql file ลงใน phpmyadmin
 
-4. เข้า file admin run file index.html สำหรับ admin page
+4. run file index.html สำหรับ customer
+
+5. เข้า file admin run file index.html สำหรับ admin page
